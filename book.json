@@ -1,0 +1,93 @@
+{"book":[
+    {
+        "image":"../assets/Picture/bookA.png",
+        "id":1,
+        "title":"& After the Fire",
+        "author":"Lauren Belfer",
+        "genre":"Fiction",
+        "price":25,
+        "status":"Used"
+    },
+    {
+      "image":"../assets/Picture/bookB.png",  
+      "id":2,
+      "title":"#Girl Boss",
+      "author":"Sophia Amoruso",
+      "genre":"Fiction",
+      "price":25,
+      "status":"Used"
+  },
+  {
+      "image":"../assets/Picture/bookC.png",
+      "id":3,
+      "title":"A prince Among Frogs",
+      "author":"E D Baker",
+      "genre":"Fiction",
+      "price":25,
+      "status":"Used"
+  },
+  {
+      "image":"../assets/Picture/bookD.png",
+      "id":4,
+      "title":"Boyfriend Material",
+      "author":"Alexis Hall",  
+      "genre":"Fiction",
+      "price":25,
+      "status":"Used"
+  },
+  {
+      "image":"../assets/Picture/bookE.png",
+      "id":5,
+      "title":"Daring and the Duke",
+      "author":"Sara Maclean",    
+      "genre":"Fiction",
+      "price":25,
+      "status":"Used"
+  },
+  {
+      "image":"../assets/Picture/bookF.png",
+      "id":6,
+      "title":"Ender's Game",
+     " author":"Orson Scott Card",    
+      "genre":"Fiction",              
+      "price":25,
+      "status":"Used"
+  },
+  {
+      "image":"../assets/Picture/bookG.png",
+      "id":7,
+      "title":"Mentats of Dune",
+      "author":"Brian Herbert, Kevin J Anderson",     
+      "genre":"Fiction",              
+      "price":25,
+      "status":"New"
+  },
+  {
+      "image":"../assets/Picture/bookH.png",
+      "id":8,
+      "title":"Take a Hint,Dani Brown",
+      "author":"Talia Hibbert",     
+      "genre":"Fiction",              
+      "price":25,
+      "status":"New"
+  },
+  {
+      "image":"../assets/Picture/bookI.png",
+      "id":9,
+      "title":"Ties that Tether",
+      "author":"Jane Igahro",     
+      "genre":"Fiction",              
+      "price":25,
+      "status":"New"
+  },
+  {   
+      "image":"../assets/Picture/bookJ.png",
+      "id":10,
+      "title":"You Had me at Hola",
+      "author":"Alexis Daria",     
+      "genre":"Fiction",              
+      "price":25,
+      "status":"New"
+  }
+  
+]}
